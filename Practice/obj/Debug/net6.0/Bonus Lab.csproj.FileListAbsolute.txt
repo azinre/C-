@@ -1,0 +1,15 @@
+C:\Users\Azin\source\repos\Bonus Lab\obj\Debug\net6.0\Bonus Lab.csproj.AssemblyReference.cache
+C:\Users\Azin\source\repos\Bonus Lab\obj\Debug\net6.0\Bonus Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azin\source\repos\Bonus Lab\obj\Debug\net6.0\Bonus Lab.AssemblyInfoInputs.cache
+C:\Users\Azin\source\repos\Bonus Lab\obj\Debug\net6.0\Bonus Lab.AssemblyInfo.cs
+C:\Users\Azin\source\repos\Bonus Lab\obj\Debug\net6.0\Bonus Lab.csproj.CoreCompileInputs.cache
+C:\Users\Azin\source\repos\Bonus Lab\bin\Debug\net6.0\Bonus Lab.exe
+C:\Users\Azin\source\repos\Bonus Lab\bin\Debug\net6.0\Bonus Lab.deps.json
+C:\Users\Azin\source\repos\Bonus Lab\bin\Debug\net6.0\Bonus Lab.runtimeconfig.json
+C:\Users\Azin\source\repos\Bonus Lab\bin\Debug\net6.0\Bonus Lab.dll
+C:\Users\Azin\source\repos\Bonus Lab\bin\Debug\net6.0\Bonus Lab.pdb
+C:\Users\Azin\source\repos\Bonus Lab\obj\Debug\net6.0\Bonus Lab.dll
+C:\Users\Azin\source\repos\Bonus Lab\obj\Debug\net6.0\refint\Bonus Lab.dll
+C:\Users\Azin\source\repos\Bonus Lab\obj\Debug\net6.0\Bonus Lab.pdb
+C:\Users\Azin\source\repos\Bonus Lab\obj\Debug\net6.0\Bonus Lab.genruntimeconfig.cache
+C:\Users\Azin\source\repos\Bonus Lab\obj\Debug\net6.0\ref\Bonus Lab.dll
